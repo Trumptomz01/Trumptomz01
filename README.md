@@ -1,16 +1,43 @@
-## Hi there 👋
+Oluwatomiwa Gbadamosi
 
-<!--
-**Trumptomz01/Trumptomz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Software Engineer | React | Next.js | TypeScript
 
-Here are some ideas to get you started:
+I’m a Computer Science student and Frontend Software Engineer with over 1.5 years of practical experience building responsive, user-focused web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I focus on translating ideas and requirements into functional, well-structured interfaces with intuitive user flows, maintainable code, and attention to user experience. My experience includes building reusable components, integrating APIs and backend services, implementing authentication and data-driven features, and debugging applications.
+
+I also value collaboration, problem-solving, and quality assurance throughout the development process.
+
+Technical Skills
+
+* Languages: JavaScript, TypeScript, HTML, CSS
+* Frontend: React, Next.js, Tailwind CSS
+* Backend Integration: Supabase, REST APIs
+* Tools: Git, GitHub, Vercel
+* Practices: Responsive Design, Component-Based Architecture, API Integration, Debugging, UI Testing
+
+Experience & Leadership
+
+Frontend Lead II — Inventors Community, OAUSTECH
+
+Contribute to frontend development initiatives, collaborate with developers, support technical problem-solving, and help promote effective development practices within the community.
+
+Areas of Interest
+
+* Frontend Engineering and Web Development
+* User Experience and Interface Design
+* AI-Powered Applications
+* Software Architecture and Maintainable Code
+* Collaborative Software Development
+
+Education
+
+B.Sc. Computer Science
+Olusegun Agagu University of Science and Technology (OAUSTECH), Okitipupa
+
+Connect With Me
+
+* Portfolio: trumptomz.vercel.app
+* GitHub: @Trumptomz01
+
+I’m interested in opportunities to contribute to meaningful software products, collaborate with development teams, and continue growing as a software engineer.
