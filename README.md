@@ -2,7 +2,7 @@ Oluwatomiwa Gbadamosi
 
 Frontend Software Engineer | React | Next.js | TypeScript
 
-I’m a Computer Science student and Frontend Software Engineer with over 1.5 years of practical experience building responsive, user-focused web applications.
+I’m a Computer Science student and Frontend Software Engineer with over 3 years of practical experience building responsive, user-focused web applications.
 
 I focus on translating ideas and requirements into functional, well-structured interfaces with intuitive user flows, maintainable code, and attention to user experience. My experience includes building reusable components, integrating APIs and backend services, implementing authentication and data-driven features, and debugging applications.
 
