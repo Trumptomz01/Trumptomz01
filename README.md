@@ -35,9 +35,9 @@ Education
 B.Sc. Computer Science
 Olusegun Agagu University of Science and Technology (OAUSTECH), Okitipupa
 
-Connect With Me
+## Connect With Me
 
-* Portfolio: trumptomz.vercel.app
-* GitHub: @Trumptomz01
+- **Portfolio:** [trumptomz.vercel.app](https://trumptomz.vercel.app)
+- **GitHub:** [@Trumptomz01](https://github.com/Trumptomz01)
 
 I’m interested in opportunities to contribute to meaningful software products, collaborate with development teams, and continue growing as a software engineer.
